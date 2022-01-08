@@ -45,7 +45,7 @@
                              <h5> Stok : {{ $produk->stok }}</h5>
                             
                             <h4>Detail:</h4>
-                            <p id="detail">{{ $produk->Detail }}
+                            <p id="detail">{{ $produk->detail }}
                             </p>
 
                             <hr>
